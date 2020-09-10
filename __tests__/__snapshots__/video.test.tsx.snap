@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Video Component renders video correctly 1`] = `
+<View
+  collapsable={false}
+  onGestureHandlerEvent={[Function]}
+  onGestureHandlerStateChange={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#000000",
+      "flex": 1,
+    }
+  }
+>
+  <Video
+    poster="https://res.cloudinary.com/dl66ay16a/image/upload/v1599229049/videos/dogs_qpukey.png"
+    posterResizeMode="cover"
+    repeat={true}
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "https://res.cloudinary.com/dl66ay16a/video/upload/v1599461415/videos/dogs_a24lmq.mp4",
+      }
+    }
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  />
+</View>
+`;

@@ -1,0 +1,6 @@
+module Pods_VideoLExample {
+  umbrella header "Pods-VideoLExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
